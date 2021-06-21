@@ -1,0 +1,32 @@
+{
+  "name": "parser-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetvertkov/parser-test-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetvertkov/parser-test-1/issues"
+  },
+  "homepage": "https://github.com/Chetvertkov/parser-test-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1",
+    "mongoose": "^5.12.14",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
